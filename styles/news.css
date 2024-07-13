@@ -1,0 +1,25 @@
+body{
+    background-color: black;color: white;
+}
+h1{
+    color: white;
+}
+.button{
+    background-color:#333333;color: white;border-radius: 2px;font-size: 20px;
+}
+.div1{
+    color: white;text-align: right;
+}
+#table{
+    color: white;text-align: center;
+}
+.home{
+    color: white;text-decoration: none;
+  }
+  h6{
+    background-color: aqua;font-size: 1px;
+
+}
+.search{
+    border-radius: 10px;
+}
